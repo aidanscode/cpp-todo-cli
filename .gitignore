@@ -1,3 +1,4 @@
 todo
 **/*.o
 notes.txt
+data/todo.csv

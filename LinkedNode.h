@@ -1,3 +1,6 @@
+#ifndef LINKEDNODE_H
+#define LINKEDNODE_H
+
 #include <string>
 
 class LinkedNode {
@@ -10,3 +13,5 @@ public:
 		complete = nodeIsComplete;
 	}
 };
+
+#endif
